@@ -1,0 +1,12 @@
+New project: Underune Maker (make Undertale and Deltarune maps) to be written in: C++ (same as Gamemaker)
+Rooms
+Tiles
+Entities
+Monsters
+Humans
+Plants
+Furniture
+Walling
+Techno
+Sprites
+Room layout (full, square, line)
