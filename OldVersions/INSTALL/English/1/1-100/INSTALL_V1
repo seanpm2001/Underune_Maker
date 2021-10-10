@@ -1,0 +1,19 @@
+---
+Installing this Video Game map maker project by @seanpm2001
+---
+
+This project currently doesn't have to be installed to be viewed, as it is not completely functional yet. It requires that you have a version of C++ installed from version 2005 or later, which most operating systems have (such as Windows Vista no service pack/Windows XP Service Pack 3 and later, Mac OS X 10.4 Tiger and later, Linux Kernel 2.6.16 or later (derived systems) FreeBSD 4.10 or later, etc.)
+
+If you want to view the image files, the majority of files are in PNG, JPG, and GIF format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG. PNG, and GIF files.
+
+Some image files are in other formats, such as SVG, You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md, *.mkd, *.mdown, *.markdown) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+These installation instructions will need to be updated as the project progresses.
+
+---
+Install instructions file version: 1 (Sunday, 2021 October 10th at 4:29 pm)
+---
