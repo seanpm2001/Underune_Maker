@@ -1,4 +1,36 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# C++
+*.cpp linguist-detectable=true
+*.cpp linguist-documentation=false
+*.cxx linguist-detectable=true
+*.cxx linguist-documentation=false
+# YAML (YAML Ain't Markup Language)
 *.yml linguist-detectable=true
 *.yml linguist-documentation=false
 *.yaml linguist-detectable=true
 *.yaml linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile (GNU Make)
+*.mk linguist-detectable=true
+*.mk linguist-documentation=false
+# End of linguist script
+# File info
+# File type: .gitattributes file
+# File version: 1 (Sunday, 2021 October 10th at 4:35 pm)
+# Line count (including blank lines and compiler line): 37
+# End of script
