@@ -1,20 +1,67 @@
-# Copied from Snapcrafters/Fork-and-rename-me
-# Experimental
+# Start of script
+
+# Editor configuration file for Seanpm2001/Underune_Maker
 
 root = true
 
 [*]
 indent_style = space
-indent_size = 4
+indent_size = 2
 end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
+line_wrap_mode = soft wrap
 
-[*.yaml]
+[*.md *.mkd *.mdown *.markdown]
 indent_style = space
 indent_size = 2
 end_of_line = lf
 charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.yml *.yaml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.txt]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.mk]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.cpp *.cxx]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: 2 (Sunday, 2021 October 10th at 4:32 pm)
+# Line count (including blank lines and compiler line): 68
+
+# End of script
